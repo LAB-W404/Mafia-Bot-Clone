@@ -23,5 +23,7 @@ Open `env-example` file as text file and put your bot token and prefix, and rena
 
 ## Note (Not an addon from me but the origional Dev)
 You can use it as an add-on to the existing bot as long as you follow the license, but please do not run the bot with this code.
+
+## Credit
 Korean to English translations made using Google Translate by [LAB-W](https://github.com/LAB-W404)
 All ownership goes to [frin0911](https://github.com/frin0911)
