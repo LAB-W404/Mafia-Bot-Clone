@@ -2,7 +2,7 @@
 Discord Mafia Game Bot using [nextcord](https://github.com/nextcord/nextcord)
 
 ## Original-Creator
-Original Creator and code in Korean (https://github.com/frin0911/Mafia-Bot)
+Original Creator and code in Korean [Here](https://github.com/frin0911/Mafia-Bot)
 
 ## Features
 - Mafia Game
